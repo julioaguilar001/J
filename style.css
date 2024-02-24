@@ -105,24 +105,24 @@ p{
     color: rgba(255, 255, 255, 0.801);
 }
 .cabezera-pagina{
-    padding: 2rem;
+    padding: 4rem;
     display: flex;
     justify-content: center;
     text-align: center;
     flex-direction: column;
-    height: 70vh;
+    height: 80vh;
     background-color: black;
        
 }
 .cuerpo-pagina{
-    margin: 5vh;
+    margin: 15vh;
     padding: 2rem;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     flex-direction: column;
-    height: 85vh;
+    height: 90vh;
     background-color: black;
 }
 
@@ -158,20 +158,23 @@ i{
     
     color: rgb(255, 255, 255);
     font-size: 25px;
-
+box-shadow: rgb(56, 68, 56) 0px 0px 5px ;
 
     }
     
     
     img {
         margin: 5vh;
-        width: 10vh;
+        width: 15vh;
         height: auto;
         border-radius: 5px;
         box-shadow: 16px 0px 0px #ff661aad;
 
     }
     .juliii{
-        color:rgba(255, 255, 255, 0.836) ;
-        background-color: #ff661aad;
+        color: white;
+        background-color: #ff661aef;
+        border: solid #ff661aad;
+        border-radius: 2px;
     }
+    
